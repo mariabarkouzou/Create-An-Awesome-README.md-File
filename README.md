@@ -14,7 +14,7 @@
 
 ```[<img align="left" alt="your name here | YouTube" width="30px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" />][youtube]
 [<img align="left" alt=" your name here| LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-'''<a href="mailto:your email here@gmail.com"><img align="left" alt="your name here | GMail" width="30px" src="https://image.flaticon.com/icons/png/512/732/732200.png" />
+<a href="mailto:your email here@gmail.com"><img align="left" alt="your name here | GMail" width="30px" src="https://image.flaticon.com/icons/png/512/732/732200.png" />
 
 🔵You can use these html tags to separate the sections and create some space between them:
 
