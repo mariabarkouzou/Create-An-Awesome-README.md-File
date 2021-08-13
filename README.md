@@ -5,7 +5,7 @@
 
 🔵For the font size of our text , we use the # symbol. One # means bigger font size. More ### mean smaller font size.
 
-🔵If you want an image as your introduction you can just use this block of code :  <img align="" alt="" src="" /> where you can align your image wherever you like by just changing the align to right , left or center.
+🔵If you want an image as your introduction you can just use this block of code :  ```<img align="" alt="" src="" />``` where you can align your image wherever you like by just changing the align to right , left or center.
 
 🔵For creating a Connect With Me section you need the icons and the links to your accounts. So , here is an example : 
 
