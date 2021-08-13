@@ -12,14 +12,14 @@
 
 ### Connect with me:
 
-'''[<img align="left" alt="your name here | YouTube" width="30px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" />][youtube]'''
-'''[<img align="left" alt=" your name here| LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]'''
-'''<a href="mailto:your email here@gmail.com"><img align="left" alt="your name here | GMail" width="30px" src="https://image.flaticon.com/icons/png/512/732/732200.png" />'''
+```[<img align="left" alt="your name here | YouTube" width="30px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" />][youtube]
+[<img align="left" alt=" your name here| LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]'''
+'''<a href="mailto:your email here@gmail.com"><img align="left" alt="your name here | GMail" width="30px" src="https://image.flaticon.com/icons/png/512/732/732200.png" />
 
 🔵You can use these html tags to separate the sections and create some space between them:
 
-'''<br />'''
-'''<br />'''
+<br />
+<br />
 
 
 
@@ -28,15 +28,15 @@
 ### Languages and Tools:
 
 
-'''[<img align="left" alt="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>][github]'''
-'''[<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]'''
-'''[<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][github]'''
-'''[<img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][github]'''
-'''[<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>][github]'''
-'''[<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>][github]'''
-'''[<img align="left" alt="VS Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="40px"/>][github]'''
-'''[<img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>][github]'''
-'''[<img align="left" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>][github]'''
+[<img align="left" alt="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>][github]
+[<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]
+[<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][github]
+[<img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][github]
+[<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>][github]
+[<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>][github]
+[<img align="left" alt="VS Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="40px"/>][github]
+[<img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>][github]
+[<img align="left" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>][github]
      
      
 
@@ -57,7 +57,7 @@
 
 🔵For the GitHub Stats and Most Used Tools , here is an example :
 
-'''[<img align="left" alt="your username here's Github Stats" src="https://github-readme-stats.vercel.app/api?username=your username here&theme=tokyonight" />]'''
+[<img align="left" alt="your username here's Github Stats" src="https://github-readme-stats.vercel.app/api?username=your username here&theme=tokyonight" />]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your username here&theme=tokyonight)](https://github.com/your username here)
 
@@ -67,6 +67,6 @@ The &theme=tokyonight is for the dark mode of the stats. If you want it to be wh
 
 🔵And last but not least , you place your own links to your accounts here to connect them with the above sections!
 
-'''[youtube]:https://......'''
-'''[linkedin]: https://.....
+[youtube]:https://......
+[linkedin]: https://.....
 [github]:  https://github.com/your userrname here
