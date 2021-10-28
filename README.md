@@ -26,7 +26,7 @@
 * ### For creating a Connect With Me section you need the icons and the links to your accounts. So , here is an example : 
 
 
-#### Connect with me:
+### Connect with me:
 
 ![connectpng](https://user-images.githubusercontent.com/76062682/139349803-bb5e9117-9d54-4968-aee9-26236078b9d0.png)
 
@@ -43,7 +43,7 @@
 
 * ### For Languages and Tools you can see an example here and of course change the icons to match your knowledge of programming languages and tools!
 
-#### Languages and Tools:
+### Languages and Tools:
 
 
 ![tools](https://user-images.githubusercontent.com/76062682/139349833-6d663bda-9e7c-4fe4-bc2f-5386eb2edab8.png)
@@ -54,7 +54,7 @@
 
 * ###  If you want to show off your certificates as I did😝 , here is an example : First in square brackets the name of your certificates and then in parenthesis the link to your certificates as you see below👇
 
-#### 📜 Certificates
+### 📜 Certificates
 
 
 ![certificates](https://user-images.githubusercontent.com/76062682/139349857-b501b2cc-dde0-4cd8-b069-a5b7304cf4e6.png)
