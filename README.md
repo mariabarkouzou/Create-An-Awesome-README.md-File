@@ -17,7 +17,8 @@
 
 🔵If you want an image as your introduction you can just use this block of code :
 ![image](https://user-images.githubusercontent.com/76062682/139349734-37522568-d514-4170-a18e-b7102d3f92a6.png)
-  where you can align your image wherever you like by just changing the align to right , left or center.
+ 
+ where you can align your image wherever you like by just changing the align to right , left or center.
 
 
 
