@@ -1,18 +1,21 @@
 * ### First of all , in order to create your own unique README.md file for your GitHub profile , you need to create a new repository and name it after your username. Then make it public and add a README.md file. This README.md is magic🧙‍♂️🧙‍♀️ and it goes straight to your overview page in your GitHub profile.
 
+---
 <br/>
 
 * ### I suggest using svg icons in all of your sections(for best appearance in mobile and desktop) , that is why inside this repo you will find an SVG Icons File.You can download any svg that works for you and place it in your README!
 
-
+---
 <br/>
 
 * ### Then , if you want a video as introduction you just create your own mp4 video or upload one straight to the README.md file by just drag and drop. GitHub makes all the hard work for you!!!! I ❤ GitHub!
 
+---
 <br/>
 
 * ### For the font size of our text , we use the # symbol. One # means bigger font size. More ### mean smaller font size.
 
+---
 <br/>
 
 * ### If you want an image as your introduction you can just use this block of code:
@@ -21,6 +24,7 @@
  
  ### where you can align your image wherever you like by just changing the align to right , left or center.
 
+---
 <br/>
 
 * ### For creating a Connect With Me section you need the icons and the links to your accounts. So , here is an example : 
@@ -30,12 +34,15 @@
 
 ![connectpng](https://user-images.githubusercontent.com/76062682/139349803-bb5e9117-9d54-4968-aee9-26236078b9d0.png)
 
+---
+
 <br/>
 
 * ### You can use these html tags to separate the sections and create some space between them:
 
 ![br](https://user-images.githubusercontent.com/76062682/139349823-dfa3bfb0-504f-4408-9824-2c83b80e7ecf.png)
 
+---
 
 <br />
 
@@ -72,6 +79,7 @@
 
 ### The &theme=tokyonight is for the dark mode of the stats. If you want it to be white or any other color , you will need to change the theme.
 
+---
 <br/>
 
 * ### And last but not least , you place your own links to your accounts here to connect them with the above sections!
