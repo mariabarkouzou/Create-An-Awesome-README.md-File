@@ -78,6 +78,7 @@
 
 
 ### The &theme=tokyonight is for the dark mode of the stats. If you want it to be white or any other color , you will need to change the theme.
+### You can find some awesome themes [here](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md).
 
 ---
 <br/>
